@@ -2,7 +2,7 @@
   "posts": [
     {
       "shop_name": "001：A社",
-      "date": "2024/08/20",
+      "date": "aaa",
       "sales_num": "1",
       "sale_listprice",
       "netprice",
@@ -12,7 +12,7 @@
     },
     {
       "shop_name": "002：B社",
-      "date": "2024/08/20",
+      "date": "aaa",
       "sales_num": "1",
       "sale_listprice",
       "netprice",
