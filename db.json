@@ -1,17 +1,7 @@
 {
   "posts": [
     {
-      "shop_name": "001：A社",
-      "date": "aaa",
-      "sales_num": "1",
-      "sale_listprice",
-      "netprice",
-      "tax",
-      "billed_amount",
-      "price"
-    },
-    {
-      "shop_name": "002：B社",
+      "shop_name": "A社",
       "date": "aaa",
       "sales_num": "1",
       "sale_listprice",
