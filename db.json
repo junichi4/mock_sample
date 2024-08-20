@@ -1,14 +1,24 @@
 {
   "posts": [
     {
-      "id": "A社",
-      "name": "あいあ",
-      "sale": "1"
+      "shop_name": "001：A社",
+      "date": "2024/08/20",
+      "sales_num": "1",
+      "sale_listprice",
+      "netprice",
+      "tax",
+      "billed_amount",
+      "price"
     },
     {
-      "id": "B社",
-      "name": "いうい",
-      "sale": "1"
+      "shop_name": "002：B社",
+      "date": "2024/08/20",
+      "sales_num": "1",
+      "sale_listprice",
+      "netprice",
+      "tax",
+      "billed_amount",
+      "price"
     }
   ]
 }
