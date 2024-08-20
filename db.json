@@ -4,11 +4,11 @@
       "shop_name": "A社",
       "date": "aaa",
       "sales_num": "1",
-      "sale_listprice",
-      "netprice",
-      "tax",
-      "billed_amount",
-      "price"
+      "sale_listprice": "1",
+      "netprice": "1",
+      "tax": "1",
+      "billed_amount": "1",
+      "price": "1"
     }
   ]
 }
